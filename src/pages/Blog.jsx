@@ -1,5 +1,3 @@
-// import {useAtomValue, userAtom} from "jotai";
-// import {userAtom} from "../atom";
 import {useTitle} from "../utils/generalFunctions.js";
 import { Container, SimpleGrid, Grid, GridItem, HStack, Box } from '@chakra-ui/react';
 import Navbar from "../components/Navbar";
